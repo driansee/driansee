@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @driansee
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning Kotlin
+- 👋 Hi, I’m Drian
+- 👀 I’m interested in Android and Machine Learning
+- 🌱 I’m currently learning Kotlin, Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
